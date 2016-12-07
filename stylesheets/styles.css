@@ -1,4 +1,4 @@
- body {
+body {
             background-color:#000000;
             }
 
@@ -36,7 +36,7 @@
 
             .rectangle {
             width:18.750em;
-            height:18.750em;
+            height:19.750em;
             margin:right;
             background-color:purple;
             border:1px solid black;
