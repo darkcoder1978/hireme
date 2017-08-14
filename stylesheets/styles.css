@@ -1,4 +1,4 @@
-body {
+            body {
             background-color:#000000;
             }
 
@@ -43,7 +43,7 @@ body {
             border-radius:10px;
             display:block;
             margin-left:0.1em;
-            margin-top:-8em;
+            margin-top:-6em;
             }
          
             div img {
@@ -51,8 +51,9 @@ body {
             height:9.375em;
             background-color:#000000;
             border:1px dashed #000000;
-            border-radius:100%;
-            margin-left:3em;
+            border-radius:60%;
+            margin-top:1.5em;
+            margin-left:5em;
             }
 
             div a {
